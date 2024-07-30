@@ -8,6 +8,7 @@ Start either by downloading the zip file or clone with HTTPS.
 # Prerequisites
 - Anaconda Distribution (https://www.anaconda.com/distribution/)
 - Python 3.7.3 (https://www.python.org/downloads/)
+- Visual Studio Code (https://code.visualstudio.com/Download)
 
 # Running
 
@@ -23,6 +24,8 @@ Required steps to run program via Jupyter Notebook (on Mac)
 3. Locate the cloned repository
   - Locate the repository from the Jupyter Notebook dashboard and click the music-recommender.ipynb file in the project root
   - Click the cell containing the code and click run
+
+4. 
 
 # Authors
 - Mert Basaran (https://github.com/mbasaran96)
