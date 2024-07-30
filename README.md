@@ -28,7 +28,7 @@ Required steps to run program via Jupyter Notebook (on Mac)
 # Visualization
 
 For the visualization of the decision tree you need to extract the 'music-recommender_visualization.dot' file from the main code in 'Music-Recommender.ipynb'.
-1. This file is uploaded in Visual Studio Code
+1. The 'music-recommender_visualization.dot' file is uploaded in Visual Studio Code
 2. Install the extension 'Graphviz (dot) language support for Visual Studio Code' by Stephanvs
 3. After installation click on the three dots on the top right corner and click on 'Open Preview to the Side'
 4. The preview panel opens to the right and shows the graphical visualization of the decision tree
